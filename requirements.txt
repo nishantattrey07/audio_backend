@@ -5,3 +5,5 @@ numpy
 librosa
 psycopg2-binary
 pydantic-settings
+matplotlib
+python-multipart
